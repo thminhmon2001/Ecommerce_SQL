@@ -5,7 +5,8 @@ If you don't have a project in BigQuery, you should create a project to see my B
 
 First
 
-copy link to see: https://console.cloud.google.com/bigquery?sq=687275443597:e3f8190e85fb48c7b31c5d6ef3768bc5
+Copy link to see: https://console.cloud.google.com/bigquery?sq=687275443597:e3f8190e85fb48c7b31c5d6ef3768bc5
+
 I use function:
   - Subquery
   - CTE
@@ -16,6 +17,7 @@ I use function:
 Second
 
 Copy link to see: https://console.cloud.google.com/bigquery?sq=687275443597:a1051a60318a46fcbdb5f1db0b63e274
+
 I use function:
   - Subquery
   - CTE
