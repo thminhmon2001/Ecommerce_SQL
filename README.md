@@ -3,7 +3,8 @@ Use SQL to analysis data in database Bigquery public data
 
 If you don't have a project in BigQuery, you should create a project to see my BigQuery link
 
-first 
+First
+
 copy link to see: https://console.cloud.google.com/bigquery?sq=687275443597:e3f8190e85fb48c7b31c5d6ef3768bc5
 I use function:
   - Subquery
@@ -12,8 +13,9 @@ I use function:
   - union
   - join
 
-second
-copy link to see: https://console.cloud.google.com/bigquery?sq=687275443597:a1051a60318a46fcbdb5f1db0b63e274
+Second
+
+Copy link to see: https://console.cloud.google.com/bigquery?sq=687275443597:a1051a60318a46fcbdb5f1db0b63e274
 I use function:
   - Subquery
   - CTE
